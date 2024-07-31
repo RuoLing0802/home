@@ -1,3 +1,5 @@
+因尚未系统接触过GitHub，为避免不必要的争议，直接贴出本项目Fork的原Git地址：https://github.com/imsyy/home
+
 简体中文 | [English](./README_EN.md)
 
 <p>
